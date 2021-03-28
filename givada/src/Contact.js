@@ -58,7 +58,7 @@ const Contact = () => {
 <div className="col-xl-6" style={{ border: "none"}}>
   <div className="card-body p-5 m-5">
     <h1 className="card-title" style = {{color:"#3d3d66"}}></h1>
-    <p className="card-text h2 m-4" style = {{color:"#7a99a3"}}>Tell us about your needs! We are here for a proper solution.</p>
+    <p className="card-text h2" style = {{color:"#7a99a3"}}>Tell us about your needs! We are here for a proper solution.</p>
   </div>
 </div>
 

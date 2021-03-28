@@ -16,7 +16,7 @@ const Services = () => {
  <div className="col-xl-6" style={{ border: "none"}}>
   <div className="card-body p-5 m-5">
     <h1 className="card-title" style = {{color:"#3d3d66"}}>Services</h1>
-    <p className="card-text h4 m-4" style = {{color:"#3d3d66"}}>Extensive report evaluating the status of digitization
+    <p className="card-text h4 " style = {{color:"#3d3d66"}}>Extensive report evaluating the status of digitization
      and data culture in your organization. List of needs and challenges, structured around strategic, methodological and organizational pillars. 
      Detailed set of tasks and specific actions recommended to achieve your goals, including their dependencies.
      Timeframe of initiatives and projects to implement the required changes.</p>
