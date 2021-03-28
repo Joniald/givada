@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/givada/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/givada/static/js/main.89300fcc.chunk.js",
-    "main.js.map": "/givada/static/js/main.89300fcc.chunk.js.map",
+    "main.js": "/givada/static/js/main.d4c27169.chunk.js",
+    "main.js.map": "/givada/static/js/main.d4c27169.chunk.js.map",
     "runtime-main.js": "/givada/static/js/runtime-main.c94ebe03.js",
     "runtime-main.js.map": "/givada/static/js/runtime-main.c94ebe03.js.map",
     "static/js/2.0469aacd.chunk.js": "/givada/static/js/2.0469aacd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c94ebe03.js",
     "static/js/2.0469aacd.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.89300fcc.chunk.js"
+    "static/js/main.d4c27169.chunk.js"
   ]
 }
